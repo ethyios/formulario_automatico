@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Pasta de declarações geradas
+declaracoes_geradas/
+
+# Pasta oculta de dados do modelo
+._modelo_data/
+
+# Arquivos de ambiente virtual (se aplicável, descomente)
+# .venv/
+# .env
+# env/
+# venv/
+
+# Arquivos de configuração do editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
